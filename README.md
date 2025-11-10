@@ -1,9 +1,10 @@
-## Hi there 👋
+Hi! I'm Steve Dormady, an aspiring Cyber Security Analyst from Richmond, Virginia. Here's a bit about me:
 
+I'm a senior at James Madison University studying computer science
+
+Skills:
 <!--
-**Stevedorm/Stevedorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
