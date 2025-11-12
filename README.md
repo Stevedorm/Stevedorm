@@ -8,9 +8,11 @@ Skills:
     
 
 📫 How to reach me:<br>
+<ul>
 &#9;Email: stevedorm2022@gmail.com<br>
 &#9;Phone: 402-707-8676<br>
 &#9;LinkedIn: https://www.linkedin.com/in/steve-dormady<br>
+</ul>
 <!--
 
 
