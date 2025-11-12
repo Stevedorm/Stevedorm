@@ -10,6 +10,7 @@ Skills:
 📫 How to reach me:
     Email: stevedorm2022@gmail.com
     Phone: 402-707-8676
+    LinkedIn: https://www.linkedin.com/in/steve-dormady
 <!--
 
 
