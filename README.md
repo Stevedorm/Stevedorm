@@ -1,16 +1,16 @@
 Hi! I'm Steve Dormady, an aspiring Cyber Security Analyst from Richmond, Virginia. Here's a bit about me:
 
-🎓 I'm a senior at James Madison University studying computer science.
-🔭 I’m currently working on getting my NSA certifiaction
-⚡ Fun fact: I'm originally from Omaha, Nebraska.
+🎓 I'm a senior at James Madison University studying computer science.<br>
+🔭 I’m currently working on getting my NSA certifiaction<br>
+⚡ Fun fact: I'm originally from Omaha, Nebraska.<br>
 
 Skills:
     
 
-📫 How to reach me:
-    Email: stevedorm2022@gmail.com
-    Phone: 402-707-8676
-    LinkedIn: https://www.linkedin.com/in/steve-dormady
+📫 How to reach me:<br>
+&#9;Email: stevedorm2022@gmail.com<br>
+&#9;Phone: 402-707-8676<br>
+&#9;LinkedIn: https://www.linkedin.com/in/steve-dormady<br>
 <!--
 
 
