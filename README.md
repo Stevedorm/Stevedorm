@@ -1,4 +1,6 @@
-Hi! I'm Steve Dormady, an aspiring Cyber Security Analyst from Richmond, Virginia. Here's a bit about me:
+## Hi! I'm Steve Dormady, an aspiring Cyber Security Analyst from Richmond, Virginia. 
+
+### Here's a bit about me:
 
 🎓 I'm a senior at James Madison University studying computer science.<br>
 🔭 I’m currently working on getting my NSA certifiaction, as well as CompTIA Security+ & CompTIA Network+<br>
