@@ -1,13 +1,24 @@
 Hi! I'm Steve Dormady, an aspiring Cyber Security Analyst from Richmond, Virginia. Here's a bit about me:
 
 🎓 I'm a senior at James Madison University studying computer science.<br>
-🔭 I’m currently working on getting my NSA certifiaction<br>
+🔭 I’m currently working on getting my NSA certifiaction, as well as CompTIA Security+ & CompTIA Network+<br>
 ⚡ Fun fact: I'm originally from Omaha, Nebraska.<br>
 
 Skills:
-<ul>
-    Programming Languages: 
-</ul>
+
+Programming Languages:
+<ol>
+    <li>C</li>
+    <li>Java</li>
+    <li>Python</li>
+    <li>JavaScript</li>
+    <li>HTML</li>
+    <li>Ruby</li>
+    <li>SQL</li>
+    <li>CSS</li>
+    <li>Rust</li>
+    <li>Haskell</li>
+</ol>
     
 
 📫 How to reach me:<br>
