@@ -6,7 +6,7 @@ Hi! I'm Steve Dormady, an aspiring Cyber Security Analyst from Richmond, Virgini
 
 ## Skills:
 
-## Programming Languages:
+### Programming Languages:
 <ol>
     <li>C</li>
     <li>Java</li>
@@ -20,7 +20,7 @@ Hi! I'm Steve Dormady, an aspiring Cyber Security Analyst from Richmond, Virgini
     <li>Haskell</li>
 </ol>
 
-## Operating Systems I'm familiar with:
+### Operating Systems I'm familiar with:
 <ul>
                     <li>
                         <span class="item-title">Linux</span>
