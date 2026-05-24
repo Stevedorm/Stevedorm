@@ -27,7 +27,7 @@
 <ul>
                     <li>
                         <span class="item-title">Linux: </span>
-                        <span class="item-body">I have used Linux for a few years now, mainly for my server and personal use. I used it for school, specifically the Ubuntu 22.04 LTS version.</span>
+                        <span class="item-body">I have used Linux for a few years now, mainly for my server and personal use. I used it for school, specifically the Ubuntu 22.04 LTS version. I have two laptops running Ubuntu and Mint, one will soon be turned into a personal server.</span>
                     </li>
                     <li>
                         <span class="item-title">Windows: </span>
@@ -38,7 +38,15 @@
                         <span class="item-body">I used Mac until college — basically all through primary school. I have been converted to a Windows user in CS, but still have a "soft spot" for it.</span>
                     </li>
 </ul>
-    
+
+
+- 🔭 I’m currently working on my Portfolio Website and cleaning up my repos! (Job hunting too :( )
+- 🌱 I’m currently learning Linux servers, CompTIA Certifications, namely Security+ and Network+, and all things Cybersecurity related!
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ... -->
+- 💬 Ask me about DNSSEC and my project about it!
+<!-- - 😄 Pronouns: ... -->
+- ⚡ Fun fact: I love Computers but they seem to hate me sometimes!
 
 ## 📫 How to reach me:<br>
 <ul>
@@ -46,15 +54,3 @@ Email: stevedorm2022@gmail.com<br>
 &#9;Phone: 402-707-8676<br>
 &#9;LinkedIn: https://www.linkedin.com/in/steve-dormady<br>
 </ul>
-<!--
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
