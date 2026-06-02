@@ -4,8 +4,8 @@
 
 🎓 I recently graduated from James Madison University with a Bachelors of Science in Computer Science. I graduated in May 2026 and also obtained my NSA certification.<br>
 🔭 I’m currently working on my Portfolio Website and cleaning up my repos! (Job hunting too :( )<br>
-🌱 I’m currently learning Linux servers, CompTIA Certifications, namely Security+ and Network+, and all things Cybersecurity related!
-💬 Ask me about <a href="https://github.com/Stevedorm/DNSSEC" >DNSSEC</a> and my project about it! Check out my write-up in <a href="https://github.com/Stevedorm/DNSSEC-Thesis">this</a> repo!
+🌱 I’m currently learning Linux servers, CompTIA Certifications, namely Security+ and Network+, and all things Cybersecurity related!<br>
+💬 Ask me about <a href="https://github.com/Stevedorm/DNSSEC" >DNSSEC</a> and my project about it! Check out my write-up in <a href="https://github.com/Stevedorm/DNSSEC-Thesis">this</a> repo!<br>
 ⚡ Fun fact: I'm originally from Omaha, Nebraska.<br>
 🔥 I love a challenge and learning knew things.
 
