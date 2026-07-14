@@ -5,7 +5,8 @@
 🎓 I recently graduated from James Madison University with a Bachelors of Science in Computer Science. I graduated in May 2026 and also obtained my NSA certification.<br>
 🔭 I’m currently working on my <a href="https://stevedorm.github.io/PortfolioWebsite/" >Portfolio Website</a> and cleaning up my repos, as well as working on projects learning active directory and server management!<br>
 🌱 I’m currently learning Linux servers, CompTIA Certifications, namely Security+ and Network+, and all things Cybersecurity related!<br>
-💼 I've recently recieved a job offer from Benchmark Community Bank as an IT Generalist!
+💼 I've recently recieved a job offer from Benchmark Community Bank as an IT Generalist!<br>
+🤓 I built a desktop pc from scratch (in one of the worst modern economies for pc parts) and it can be seen <a href="https://github.com/Stevedorm/ComputerBuild">here</a>.<br>
 💬 Ask me about <a href="https://github.com/Stevedorm/DNSSEC" >DNSSEC</a> and my project about it! Check out my write-up in <a href="https://github.com/Stevedorm/DNSSEC-Thesis">this</a> repo!<br>
 ⚡ Fun fact: I'm originally from Omaha, Nebraska.<br>
 🔥 I love a challenge and learning knew things.
@@ -34,7 +35,7 @@
                     </li>
                     <li>
                         <span class="item-title">Windows: </span>
-                        <span class="item-body">I have been using Windows throughout my college career. I am familiar with Excel and Word. I also used excel with Rocktown Realty, constantly updating a spreadsheet to keep units on track during the turn.</span>
+                        <span class="item-body">I have been using Windows throughout my college career and now on my desktop pc. I am familiar with Excel and Word. I also used excel with Rocktown Realty, constantly updating a spreadsheet to keep units on track during the turn.</span>
                     </li>
                     <li>
                         <span class="item-title">MacOS: </span>
