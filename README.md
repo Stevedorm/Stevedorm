@@ -1,4 +1,4 @@
-## Hi! I'm Steve Dormady, an aspiring Cyber Security Analyst from Richmond, Virginia. 
+# Hi! I'm Steve Dormady, an aspiring Cyber Security Analyst from Richmond, Virginia. 
 
 ### Here's a bit about me:
 
