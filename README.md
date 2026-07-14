@@ -3,7 +3,7 @@
 ### Here's a bit about me:
 
 🎓 I recently graduated from James Madison University with a Bachelors of Science in Computer Science. I graduated in May 2026 and also obtained my NSA certification.<br>
-🔭 I’m currently working on my <a href="https://stevedorm.github.io/PortfolioWebsite/" >Portfolio Website</a>Portfolio Website and cleaning up my repos!<br>
+🔭 I’m currently working on my <a href="https://stevedorm.github.io/PortfolioWebsite/" >Portfolio Website</a> and cleaning up my repos, as well as working on projects learning active directory and server management!<br>
 🌱 I’m currently learning Linux servers, CompTIA Certifications, namely Security+ and Network+, and all things Cybersecurity related!<br>
 💼 I've recently recieved a job offer from Benchmark Community Bank as an IT Generalist!
 💬 Ask me about <a href="https://github.com/Stevedorm/DNSSEC" >DNSSEC</a> and my project about it! Check out my write-up in <a href="https://github.com/Stevedorm/DNSSEC-Thesis">this</a> repo!<br>
