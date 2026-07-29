@@ -9,7 +9,7 @@
 
         <br><br>
 
-        <h3><code>Stevedorm@github ~ $ whoami</code></h3>
+    ### <code>Stevedorm@github ~ $ whoami</code>
         <table>
           <tr>
             <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
@@ -55,10 +55,10 @@ My independent study focused on building and securing a complete DNS environment
 - Authored a complete research thesis
 
 📖 **Project:**  
-https://github.com/Stevedorm/DNSSEC
+[DNSSEC Research Project](https://github.com/Stevedorm/DNSSEC)
 
-📝 **Research Thesis:**  
-https://github.com/Stevedorm/DNSSEC-Thesis
+📝 **Research Thesis:**
+[DNSSEC Research Thesis](https://github.com/Stevedorm/DNSSEC-Thesis)
 
 ---
 
@@ -76,7 +76,7 @@ It is used for:
 
 Project repository:
 
-https://github.com/Stevedorm/ComputerBuild
+[Computer Build](https://github.com/Stevedorm/ComputerBuild)
 
 ---
 
@@ -153,8 +153,8 @@ https://github.com/Stevedorm/ComputerBuild
 
 📧 **Email:** stevedorm2022@gmail.com
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/steve-dormady
+💼 **LinkedIn:**
+[LinkedIn](https://www.linkedin.com/in/steve-dormady)
 
-🌐 **Portfolio:**  
-https://stevedorm.github.io/PortfolioWebsite/
+🌐 **Portfolio:**
+[Portfolio](https://stevedorm.github.io/PortfolioWebsite/)
