@@ -18,10 +18,10 @@
 <img src="./avi-ascii.svg" width="370">
 </td>
 
-<td>
+<!-- <td>
 <img src="./info-card.svg" width="490">
 </td>
-</tr>
+</tr> -->
 </table>
 
 </div>
